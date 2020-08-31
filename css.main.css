@@ -1,9 +1,7 @@
 img {
-    border-radius: 15px;
+    border-radius: 50px;
 }
-div {
-    border-radius:15px;
-}
+
 body {
     margin: 60px auto;
     width: 70%;
