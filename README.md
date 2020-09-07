@@ -4,6 +4,6 @@ This project is where I will be testing the concepts that I learn with:
   <li>html,</li> 
   <li>css,</li> 
   <li>javascript,</li>
-  <li>github</li></ol>
+  <li>github</li>
   <li>and Visual Studio Code.</li>
  </ol>
